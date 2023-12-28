@@ -1,3 +1,4 @@
 # Data-Structure-Algorithm
 
-## Test Mode 0.1
+## Covered:
+- Stack (push,pop,peek)
